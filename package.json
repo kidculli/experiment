@@ -1,0 +1,16 @@
+{
+  "name": "experiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kidculli",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.15.3",
+    "json-url": "^3.0.0",
+    "tinyurl": "^1.1.7"
+  }
+}
